@@ -1,0 +1,331 @@
+Treatment,Fatty Acids,Concentration
+Commercial,Methyl Octanoate,0.33
+Commercial,Methyl Octanoate,0.33
+Commercial,Methyl Octanoate,0.31
+Commercial,Methyl Decanoate,0.13
+Commercial,Methyl Decanoate,0.15
+Commercial,Methyl Decanoate,0.11
+Commercial,Methyl Laurate,12.44
+Commercial,Methyl Laurate,14.44
+Commercial,Methyl Laurate,13.44
+Commercial,Methyl Tridecanoate,2.58
+Commercial,Methyl Tridecanoate,2.61
+Commercial,Methyl Tridecanoate,2.55
+Commercial,Methyl Myristate,23.83
+Commercial,Methyl Myristate,22.83
+Commercial,Methyl Myristate,21.83
+Commercial,Methyl Palmitoleate,5.66
+Commercial,Methyl Palmitoleate,5.69
+Commercial,Methyl Palmitoleate,5.63
+Commercial,Methyl Palmitate,0.10
+Commercial,Methyl Palmitate,0.07
+Commercial,Methyl Palmitate,0.08
+Commercial,Methyl Linoleate,72.07
+Commercial,Methyl Linoleate,67.07
+Commercial,Methyl Linoleate,77.07
+Commercial,Methyl Oleate,1.36
+Commercial,Methyl Oleate,1.39
+Commercial,Methyl Oleate,1.33
+Commercial,Methyl Linolenate,0.26
+Commercial,Methyl Linolenate,0.22
+Commercial,Methyl Linolenate,0.24
+Commercial,Methyl Stearate,2.56
+Commercial,Methyl Stearate,2.52
+Commercial,Methyl Stearate,2.48
+Commercial,Methyl Arachidate,0.18
+Commercial,Methyl Arachidate,0.20
+Commercial,Methyl Arachidate,0.16
+Commercial,Methyl Arachidonate,0.30
+Commercial,Methyl Arachidonate,0.20
+Commercial,Methyl Arachidonate,0.10
+Commercial,Methyl Eicosapaennoate,0.00
+Commercial,Methyl Eicosapaennoate,0.00
+Commercial,Methyl Eicosapaennoate,0.00
+Commercial,Methyl 11-14-17-Eicosatrienoate,4.56
+Commercial,Methyl 11-14-17-Eicosatrienoate,4.36
+Commercial,Methyl 11-14-17-Eicosatrienoate,4.76
+Commercial,Methyl Heptadecanoate,3.49
+Commercial,Methyl Heptadecanoate,3.52
+Commercial,Methyl Heptadecanoate,3.46
+Commercial,Methyl Heneicosanoate,2.11
+Commercial,Methyl Heneicosanoate,2.14
+Commercial,Methyl Heneicosanoate,2.07
+Commercial,Methyl Docosahexaenoate,0.64
+Commercial,Methyl Docosahexaenoate,0.84
+Commercial,Methyl Docosahexaenoate,0.44
+Commercial,Methyl Erucate,21.76
+Commercial,Methyl Erucate,24.76
+Commercial,Methyl Erucate,18.76
+Commercial,Methyl 11-Eicosenponoate,0.01
+Commercial,Methyl 11-Eicosenponoate,0.01
+Commercial,Methyl 11-Eicosenponoate,0.01
+Commercial,Methyl Behenate,0.17
+Commercial,Methyl Behenate,0.15
+Commercial,Methyl Behenate,0.19
+Commercial,Methyl Nervonate,0.01
+Commercial,Methyl Nervonate,0.02
+Commercial,Methyl Nervonate,0.00
+Control,Methyl Octanoate,1.73
+Control,Methyl Octanoate,1.83
+Control,Methyl Octanoate,1.93
+Control,Methyl Decanoate,0.11
+Control,Methyl Decanoate,0.12
+Control,Methyl Decanoate,0.13
+Control,Methyl Laurate,10.85
+Control,Methyl Laurate,9.85
+Control,Methyl Laurate,13.85
+Control,Methyl Tridecanoate,5.36
+Control,Methyl Tridecanoate,5.39
+Control,Methyl Tridecanoate,5.33
+Control,Methyl Myristate,0.86
+Control,Methyl Myristate,0.85
+Control,Methyl Myristate,0.88
+Control,Methyl Palmitoleate,14.80
+Control,Methyl Palmitoleate,14.90
+Control,Methyl Palmitoleate,14.70
+Control,Methyl Palmitate,0.19
+Control,Methyl Palmitate,0.24
+Control,Methyl Palmitate,0.14
+Control,Methyl Linoleate,60.64
+Control,Methyl Linoleate,58.64
+Control,Methyl Linoleate,62.64
+Control,Methyl Oleate,1.21
+Control,Methyl Oleate,1.22
+Control,Methyl Oleate,1.20
+Control,Methyl Linolenate,0.85
+Control,Methyl Linolenate,0.88
+Control,Methyl Linolenate,0.82
+Control,Methyl Stearate,1.20
+Control,Methyl Stearate,1.14
+Control,Methyl Stearate,1.26
+Control,Methyl Arachidate,1.20
+Control,Methyl Arachidate,1.28
+Control,Methyl Arachidate,1.24
+Control,Methyl Arachidonate,0.05
+Control,Methyl Arachidonate,0.08
+Control,Methyl Arachidonate,0.02
+Control,Methyl Eicosapaennoate,0.08
+Control,Methyl Eicosapaennoate,0.05
+Control,Methyl Eicosapaennoate,0.02
+Control,Methyl 11-14-17-Eicosatrienoate,4.12
+Control,Methyl 11-14-17-Eicosatrienoate,4.15
+Control,Methyl 11-14-17-Eicosatrienoate,4.09
+Control,Methyl Heptadecanoate,2.08
+Control,Methyl Heptadecanoate,2.11
+Control,Methyl Heptadecanoate,2.05
+Control,Methyl Heneicosanoate,3.15
+Control,Methyl Heneicosanoate,3.19
+Control,Methyl Heneicosanoate,3.11
+Control,Methyl Docosahexaenoate,0.60
+Control,Methyl Docosahexaenoate,0.90
+Control,Methyl Docosahexaenoate,0.30
+Control,Methyl Erucate,15.50
+Control,Methyl Erucate,17.50
+Control,Methyl Erucate,13.50
+Control,Methyl 11-Eicosenponoate,0.01
+Control,Methyl 11-Eicosenponoate,0.01
+Control,Methyl 11-Eicosenponoate,0.01
+Control,Methyl Behenate,0.68
+Control,Methyl Behenate,0.71
+Control,Methyl Behenate,0.65
+Control,Methyl Nervonate,0.03
+Control,Methyl Nervonate,0.05
+Control,Methyl Nervonate,0.03
+T1 (5%),Methyl Octanoate,1.63
+T1 (5%),Methyl Octanoate,1.62
+T1 (5%),Methyl Octanoate,1.61
+T1 (5%),Methyl Decanoate,1.55
+T1 (5%),Methyl Decanoate,1.58
+T1 (5%),Methyl Decanoate,1.52
+T1 (5%),Methyl Laurate,11.04
+T1 (5%),Methyl Laurate,12.04
+T1 (5%),Methyl Laurate,10.04
+T1 (5%),Methyl Tridecanoate,4.84
+T1 (5%),Methyl Tridecanoate,4.94
+T1 (5%),Methyl Tridecanoate,4.74
+T1 (5%),Methyl Myristate,0.78
+T1 (5%),Methyl Myristate,0.79
+T1 (5%),Methyl Myristate,0.77
+T1 (5%),Methyl Palmitoleate,2.22
+T1 (5%),Methyl Palmitoleate,2.12
+T1 (5%),Methyl Palmitoleate,2.02
+T1 (5%),Methyl Palmitate,0.12
+T1 (5%),Methyl Palmitate,0.17
+T1 (5%),Methyl Palmitate,0.07
+T1 (5%),Methyl Linoleate,36.43
+T1 (5%),Methyl Linoleate,34.43
+T1 (5%),Methyl Linoleate,32.43
+T1 (5%),Methyl Oleate,0.79
+T1 (5%),Methyl Oleate,0.77
+T1 (5%),Methyl Oleate,0.81
+T1 (5%),Methyl Linolenate,1.51
+T1 (5%),Methyl Linolenate,1.44
+T1 (5%),Methyl Linolenate,1.58
+T1 (5%),Methyl Stearate,1.66
+T1 (5%),Methyl Stearate,1.59
+T1 (5%),Methyl Stearate,1.52
+T1 (5%),Methyl Arachidate,0.87
+T1 (5%),Methyl Arachidate,0.90
+T1 (5%),Methyl Arachidate,0.84
+T1 (5%),Methyl Arachidonate,0.08
+T1 (5%),Methyl Arachidonate,0.10
+T1 (5%),Methyl Arachidonate,0.06
+T1 (5%),Methyl Eicosapaennoate,0.18
+T1 (5%),Methyl Eicosapaennoate,0.21
+T1 (5%),Methyl Eicosapaennoate,0.15
+T1 (5%),Methyl 11-14-17-Eicosatrienoate,1.51
+T1 (5%),Methyl 11-14-17-Eicosatrienoate,1.48
+T1 (5%),Methyl 11-14-17-Eicosatrienoate,1.54
+T1 (5%),Methyl Heptadecanoate,1.38
+T1 (5%),Methyl Heptadecanoate,1.41
+T1 (5%),Methyl Heptadecanoate,1.35
+T1 (5%),Methyl Heneicosanoate,4.90
+T1 (5%),Methyl Heneicosanoate,4.89
+T1 (5%),Methyl Heneicosanoate,4.91
+T1 (5%),Methyl Docosahexaenoate,0.36
+T1 (5%),Methyl Docosahexaenoate,0.39
+T1 (5%),Methyl Docosahexaenoate,0.33
+T1 (5%),Methyl Erucate,18.31
+T1 (5%),Methyl Erucate,21.31
+T1 (5%),Methyl Erucate,15.31
+T1 (5%),Methyl 11-Eicosenponoate,0.01
+T1 (5%),Methyl 11-Eicosenponoate,0.00
+T1 (5%),Methyl 11-Eicosenponoate,0.02
+T1 (5%),Methyl Behenate,0.55
+T1 (5%),Methyl Behenate,0.58
+T1 (5%),Methyl Behenate,0.52
+T1 (5%),Methyl Nervonate,0.02
+T1 (5%),Methyl Nervonate,0.01
+T1 (5%),Methyl Nervonate,0.00
+T2 (10%),Methyl Octanoate,0.60
+T2 (10%),Methyl Octanoate,0.62
+T2 (10%),Methyl Octanoate,0.64
+T2 (10%),Methyl Decanoate,0.59
+T2 (10%),Methyl Decanoate,0.64
+T2 (10%),Methyl Decanoate,0.54
+T2 (10%),Methyl Laurate,5.15
+T2 (10%),Methyl Laurate,4.15
+T2 (10%),Methyl Laurate,3.15
+T2 (10%),Methyl Tridecanoate,6.18
+T2 (10%),Methyl Tridecanoate,6.21
+T2 (10%),Methyl Tridecanoate,6.15
+T2 (10%),Methyl Myristate,0.85
+T2 (10%),Methyl Myristate,0.88
+T2 (10%),Methyl Myristate,0.82
+T2 (10%),Methyl Palmitoleate,6.77
+T2 (10%),Methyl Palmitoleate,6.97
+T2 (10%),Methyl Palmitoleate,6.67
+T2 (10%),Methyl Palmitate,0.14
+T2 (10%),Methyl Palmitate,0.20
+T2 (10%),Methyl Palmitate,0.17
+T2 (10%),Methyl Linoleate,31.67
+T2 (10%),Methyl Linoleate,34.67
+T2 (10%),Methyl Linoleate,37.67
+T2 (10%),Methyl Oleate,1.44
+T2 (10%),Methyl Oleate,1.41
+T2 (10%),Methyl Oleate,1.38
+T2 (10%),Methyl Linolenate,1.12
+T2 (10%),Methyl Linolenate,1.19
+T2 (10%),Methyl Linolenate,1.04
+T2 (10%),Methyl Stearate,0.84
+T2 (10%),Methyl Stearate,0.89
+T2 (10%),Methyl Stearate,0.79
+T2 (10%),Methyl Arachidate,0.66
+T2 (10%),Methyl Arachidate,0.70
+T2 (10%),Methyl Arachidate,0.62
+T2 (10%),Methyl Arachidonate,0.04
+T2 (10%),Methyl Arachidonate,0.02
+T2 (10%),Methyl Arachidonate,0.06
+T2 (10%),Methyl Eicosapaennoate,0.08
+T2 (10%),Methyl Eicosapaennoate,0.05
+T2 (10%),Methyl Eicosapaennoate,0.02
+T2 (10%),Methyl 11-14-17-Eicosatrienoate,3.74
+T2 (10%),Methyl 11-14-17-Eicosatrienoate,3.70
+T2 (10%),Methyl 11-14-17-Eicosatrienoate,3.66
+T2 (10%),Methyl Heptadecanoate,1.35
+T2 (10%),Methyl Heptadecanoate,1.38
+T2 (10%),Methyl Heptadecanoate,1.32
+T2 (10%),Methyl Heneicosanoate,2.37
+T2 (10%),Methyl Heneicosanoate,2.43
+T2 (10%),Methyl Heneicosanoate,2.40
+T2 (10%),Methyl Docosahexaenoate,0.40
+T2 (10%),Methyl Docosahexaenoate,0.43
+T2 (10%),Methyl Docosahexaenoate,0.37
+T2 (10%),Methyl Erucate,18.35
+T2 (10%),Methyl Erucate,10.35
+T2 (10%),Methyl Erucate,16.35
+T2 (10%),Methyl 11-Eicosenponoate,0.05
+T2 (10%),Methyl 11-Eicosenponoate,0.05
+T2 (10%),Methyl 11-Eicosenponoate,0.05
+T2 (10%),Methyl Behenate,0.79
+T2 (10%),Methyl Behenate,0.75
+T2 (10%),Methyl Behenate,0.77
+T2 (10%),Methyl Nervonate,0.02
+T2 (10%),Methyl Nervonate,0.01
+T2 (10%),Methyl Nervonate,0.03
+T3 (15%),Methyl Octanoate,1.25
+T3 (15%),Methyl Octanoate,1.28
+T3 (15%),Methyl Octanoate,1.22
+T3 (15%),Methyl Decanoate,0.06
+T3 (15%),Methyl Decanoate,0.09
+T3 (15%),Methyl Decanoate,0.03
+T3 (15%),Methyl Laurate,12.75
+T3 (15%),Methyl Laurate,12.77
+T3 (15%),Methyl Laurate,12.68
+T3 (15%),Methyl Tridecanoate,1.87
+T3 (15%),Methyl Tridecanoate,1.91
+T3 (15%),Methyl Tridecanoate,1.83
+T3 (15%),Methyl Myristate,1.12
+T3 (15%),Methyl Myristate,1.15
+T3 (15%),Methyl Myristate,1.09
+T3 (15%),Methyl Palmitoleate,4.57
+T3 (15%),Methyl Palmitoleate,4.47
+T3 (15%),Methyl Palmitoleate,4.67
+T3 (15%),Methyl Palmitate,0.10
+T3 (15%),Methyl Palmitate,0.09
+T3 (15%),Methyl Palmitate,0.11
+T3 (15%),Methyl Linoleate,37.22
+T3 (15%),Methyl Linoleate,36.22
+T3 (15%),Methyl Linoleate,38.22
+T3 (15%),Methyl Oleate,2.04
+T3 (15%),Methyl Oleate,2.01
+T3 (15%),Methyl Oleate,2.07
+T3 (15%),Methyl Linolenate,3.05
+T3 (15%),Methyl Linolenate,3.09
+T3 (15%),Methyl Linolenate,3.01
+T3 (15%),Methyl Stearate,0.88
+T3 (15%),Methyl Stearate,0.82
+T3 (15%),Methyl Stearate,0.94
+T3 (15%),Methyl Arachidate,0.60
+T3 (15%),Methyl Arachidate,0.61
+T3 (15%),Methyl Arachidate,0.59
+T3 (15%),Methyl Arachidonate,0.07
+T3 (15%),Methyl Arachidonate,0.09
+T3 (15%),Methyl Arachidonate,0.05
+T3 (15%),Methyl Eicosapaennoate,0.03
+T3 (15%),Methyl Eicosapaennoate,0.05
+T3 (15%),Methyl Eicosapaennoate,0.01
+T3 (15%),Methyl 11-14-17-Eicosatrienoate,3.99
+T3 (15%),Methyl 11-14-17-Eicosatrienoate,3.97
+T3 (15%),Methyl 11-14-17-Eicosatrienoate,3.95
+T3 (15%),Methyl Heptadecanoate,1.19
+T3 (15%),Methyl Heptadecanoate,1.23
+T3 (15%),Methyl Heptadecanoate,1.15
+T3 (15%),Methyl Heneicosanoate,3.72
+T3 (15%),Methyl Heneicosanoate,3.69
+T3 (15%),Methyl Heneicosanoate,3.75
+T3 (15%),Methyl Docosahexaenoate,0.30
+T3 (15%),Methyl Docosahexaenoate,0.14
+T3 (15%),Methyl Docosahexaenoate,0.23
+T3 (15%),Methyl Erucate,16.06
+T3 (15%),Methyl Erucate,19.06
+T3 (15%),Methyl Erucate,13.06
+T3 (15%),Methyl 11-Eicosenponoate,0.03
+T3 (15%),Methyl 11-Eicosenponoate,0.03
+T3 (15%),Methyl 11-Eicosenponoate,0.04
+T3 (15%),Methyl Behenate,0.47
+T3 (15%),Methyl Behenate,0.45
+T3 (15%),Methyl Behenate,0.49
+T3 (15%),Methyl Nervonate,0.01
+T3 (15%),Methyl Nervonate,0.01
+T3 (15%),Methyl Nervonate,0.01

@@ -1,0 +1,27 @@
+Treatment,Day,Cumulative Mortality
+Control,Day1,0
+Control,Day2,0
+Control,Day3,7
+Control,Day4,13
+Control,Day5,27
+Control,Day6,50
+Control,Day7,67
+Control,Day8,87
+Control,Day9,100
+Commercial,Day1,0
+Commercial,Day2,0
+Commercial,Day3,13
+Commercial,Day4,23
+Commercial,Day5,47
+Commercial,Day6,80
+Commercial,Day7,100
+Algae treatment,Day1,0
+Algae treatment,Day2,0
+Algae treatment,Day3,0
+Algae treatment,Day4,0
+Algae treatment,Day5,7
+Algae treatment,Day6,20
+Algae treatment,Day7,37
+Algae treatment,Day8,57
+Algae treatment,Day9,63
+Algae treatment,Day10,80
